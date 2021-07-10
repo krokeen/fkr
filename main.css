@@ -126,5 +126,10 @@ body{
     .bb{
         margin: 51px;
     }
-    
+    .cont{
+        block-size: 750px;
+        display: block;
+        justify-content: center;
+        align-items: center;
+    }
     }
