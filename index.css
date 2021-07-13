@@ -33,15 +33,3 @@ ul{
     font-family:'Jomhuria', cursive ;
     font-size: 36px;
   }
-  .text{
-      justify-content: left;
-      display: flex;
-      text-align: left;
-      padding: 40px;
-      border-radius: 20px;
-      text-decoration: none;
-  }
-  .text:focus{
-    border: 3px solid #555;
-    border-radius: 20px;
-  }
